@@ -30,3 +30,14 @@ Compiled 2026-09-20. Each entry: source consulted during the deep-research pass.
 26. Atlan, "Enterprise Knowledge Layer for AI" (2026-08-26) — https://atlan.com/know/ai-agent/data-for-ai/enterprise-knowledge-layer-for-ai/
 27. PaperX/YouTube, "Persistent Compiled Knowledge as Agent Memory" — https://www.youtube.com/watch?v=lkaGm7E0vxM
 28. kenhuangus, "What Andrej Karpathy Got Right" (2026-04-05) — https://kenhuangus.substack.com/p/what-andrej-karpathy-got-right-how
+
+## Local documents ingested 2026-10-17 (digests under raw/)
+29. myosx — NixOS→nix-darwin migration research (2026-09-19) — raw/2026-09-19-myosx-nix-darwin-migration.md
+30. GitHub profile analysis of theNewFolder — raw/2026-10-17-github-profile-analysis-thenewfolder.md
+31. zimbatm, "Externally extensible flake systems" (slides) — raw/zimbatm-externally-extensible-flake-systems.md; https://github.com/nix-systems/nix-systems
+32. The LLM Wiki Pattern deep-research report (2026-09-20, = README.md) — raw/llm-wiki-deep-research-report-2026-09-20.md
+33. AI System Instructions (SYSINSTR) — raw/ai-system-instructions-sysinstr.md
+34. "Routing, Memory, and the Wiki" live audit (2026-09-02→05) — raw/2026-09-05-routing-memory-wiki-audit.md
+35. M5 setup hybrid contract + them5 audit (2026-10-16) — raw/2026-10-16-m5-hybrid-contract.md
+36. gunix → myosx digest (2026-10-16) — raw/2026-10-16-gunix-myosx-digest.md
+37. Live machine audit of oms-MacBook-Pro (2026-10-17) — raw/2026-10-17-live-machine-audit.md; docs verified: https://learn.chatgpt.com/docs/build-skills , https://geminicli.com/docs/cli/skills/ , https://geminicli.com/docs/cli/gemini-md/ , https://code.claude.com/docs/en/skills , https://code.claude.com/docs/en/memory , https://github.com/basicmachines-co/basic-memory , https://github.com/nix-darwin/nix-darwin/issues/1576 , https://mgaebler.me/en/blog/nix-macos-tahoe-btm-blocks-launchdaemons/

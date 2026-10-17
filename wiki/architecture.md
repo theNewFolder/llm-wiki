@@ -2,6 +2,7 @@
 type: concept
 title: Core Architecture
 confidence: high
+sources: [raw/sources.md, raw/llm-wiki-deep-research-report-2026-09-20.md]
 updated: 2026-09-20
 ---
 
@@ -16,3 +17,5 @@ Two special files: `index.md` (context-sized catalog, the agent's entry point) a
 Scaling lever: qmd — local hybrid BM25/vector search with LLM reranking, single SQLite index, on-device.
 
 See [[comparisons]] for when this beats RAG, and [[limitations]] for where it breaks.
+
+Source page: [[llm-wiki-deep-research-report]].

@@ -2,6 +2,7 @@
 type: index
 title: Ecosystem
 confidence: high
+sources: [raw/sources.md, raw/llm-wiki-deep-research-report-2026-09-20.md]
 updated: 2026-09-20
 ---
 
